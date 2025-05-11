@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Description of the web application">
+    <meta name="author" content="Michael Sanabria">
+    <title>Michael Sanabria | Web Portfolio</title>
+    
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    
+    <!-- External Stylesheets -->
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- External Scripts (Optional) -->
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header>
+        <!-- Navigation Bar -->
+    
+        <div class="navbar">
+            <div class="logo">
+                <a href="#home">MyPortfolio</a>
+            </div>
+
+             <!-- Hamburger Icon -->
+    <button class="hamburger" id="hamburger" aria-label="Open navigation menu">
+        &#9776;
+    </button>
+
+            <nav class="nav-menu" aria-label="Main navigation">
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#features">Features</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="#login">Login</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    
+    <!-- Main Content -->
+    <main>
+        <section id="home">
+            <section id="profile-card" class="profile-card">
+                <img src="image.png" alt="Michael Sanabria" class="profile-img">
+                <h2>Michael Sanabria</h2>
+                <p>Engineering Student & Entrepreneur</p>
+            </section>
+            <h1>Welcome to the Web Application</h1>
+            <p>This is the landing page content.</p>
+        </section>
+
+        <section id="features">
+            <h2>Features</h2>
+            <p>Highlight key features of the application.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <form action="/submit" method="POST">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+                
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                
+                <button type="submit">Submit</button>
+            </form>
+        </section>
+    </main>
+    
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Your Company Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
