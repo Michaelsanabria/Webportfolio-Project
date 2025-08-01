@@ -4,7 +4,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 5px 10%;
-    background-color: #414173;
+    background-color: #7070df;
     color: white;
     position: sticky;
     top: 0;
@@ -35,7 +35,7 @@
 }
 
 .nav-menu a:hover {
-    color: #4d77bb;
+    color: #8e9cb4;
 }
 
 /* === RESPONSIVE ADJUSTMENTS === */
@@ -57,7 +57,7 @@
         overflow: hidden;
         max-height: 0;
         transition: max-height 0.4s ease;
-        background-color: #1e1e2f;
+        background-color: #14144b;
         width: 100%;
         position: absolute;
         top: 100%;
@@ -86,7 +86,7 @@
     }
 
     .nav-menu a:hover {
-        color: #ff4081;
+        color: #4b6dcc;
     }
 }
 
