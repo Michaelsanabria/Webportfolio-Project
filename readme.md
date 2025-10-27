@@ -1,3 +1,7 @@
 # Web Portfolio Project
 
-This web portfolio is a personal showcase of skills, projects, and achievements. Designed to highlight expertise in web development, it features a clean, responsive layout and interactive elements to engage visitors. The portfolio includes sections for an about page, project gallery, resume, and contact form, providing a comprehensive overview of professional capabilities. Built using modern web technologies, this project demonstrates proficiency in HTML, CSS, JavaScript, and other frameworks or libraries as applicable.
+This web portfolio is a personal showcase of skills, projects, and achievements.
+ Designed to highlight expertise in web development, it features a clean, responsive layout and interactive elements to engage visitors. The portfolio includes sections for an about page, project gallery, resume, and contact form, providing a comprehensive overview of professional capabilities. Built using modern web technologies, this project demonstrates proficiency in HTML, CSS, JavaScript, and other frameworks or libraries as applicable.
+
+
+https://roadmap.sh/projects/portfolio-website
