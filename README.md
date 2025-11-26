@@ -6,11 +6,11 @@
 
 🌐 Web Portfolio
 
-A personal web portfolio showcasing my projects, skills, and experience as a [developer/designer/engineer/etc.].
-Built with [insert stack — e.g., React, Next.js, TailwindCSS, Node.js].
+A personal web portfolio showcasing my projects, skills, and experience as a developer
+Built with React, Next.js, TailwindCSS, Node.js.
 
 ⸻
-
+<!-- unsure if I will keep this section or refine it. 
 🚀 Features
 	•	Responsive design across all devices
 	•	Dynamic project showcase with live demos and source links
@@ -54,3 +54,6 @@ Other Tools: [e.g., ESLint, Prettier, Husky]
 🧑‍💻 Author
 
 [Your Name]
+
+END -->
+
